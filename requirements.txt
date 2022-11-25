@@ -1,0 +1,5 @@
+requests==2.28.1
+beautifulsoup4==4.11.1
+cloudscraper==1.2.60
+psycopg2==2.9.3
+py-cord==2.1.1
